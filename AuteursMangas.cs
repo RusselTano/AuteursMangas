@@ -9,9 +9,9 @@ using System.Windows.Forms;
 
 namespace AuteursMangas
 {
-    public partial class Form1 : Form
+    public partial class AuteursMangas : Form
     {
-        public Form1()
+        public AuteursMangas()
         {
             InitializeComponent();
         }
