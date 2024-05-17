@@ -15,7 +15,7 @@ namespace AuteursMangas
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new AuteursMangas());
+            Application.Run(new AuteursMangasForm());
         }
     }
 }

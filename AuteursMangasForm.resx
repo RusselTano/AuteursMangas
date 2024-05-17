@@ -123,4 +123,28 @@
   <metadata name="contextMenuStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>153, 17</value>
   </metadata>
+  <data name="textBox1.Text" xml:space="preserve">
+    <value>Tadotoshi Fujimaki  				
+ONE 	 			
+Kohei Horikoshi   		
+Eiichiro Oda   			
+Tatsuya Endō   			
+Atsushi Ōkubo  			
+Yusuke Murata  			
+Masami Kurumada  		
+Karuho Shiita 	 		
+Nakaba Suzuki
+Chu-Gong
+Mitsutoshi Shimabukuro
+Sui Ichida
+Makoto Yukimura 
+Kazuki Takahashi	 					
+		</value>
+  </data>
+  <metadata name="auteursMangasOpenFileDialog.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>610, 12</value>
+  </metadata>
+  <metadata name="auteursMangasFontDialog.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>356, 12</value>
+  </metadata>
 </root>
