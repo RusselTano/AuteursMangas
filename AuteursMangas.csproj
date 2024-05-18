@@ -49,6 +49,7 @@
     <Compile Include="AuteursMangasForm.Designer.cs">
       <DependentUpon>AuteursMangasForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="AuteursMangasGenerale.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="AuteursMangasForm.resx">
@@ -142,6 +143,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="bin\Debug\Images\1000_F_468585023_oZ9bWqnreAxAuCa9hhnRx3eMcYLnXdPU.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\home.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\otaku.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
